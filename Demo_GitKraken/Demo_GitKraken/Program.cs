@@ -18,7 +18,7 @@ namespace Demo_GitKraken
 
 
             // Bob's edit for a pull request
-
+            Console.BackgroundColor = ConsoleColor.Green;
 
             Console.WriteLine("Press any key to close");
             Console.ReadLine();
