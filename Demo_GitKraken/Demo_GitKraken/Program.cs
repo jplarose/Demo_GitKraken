@@ -18,6 +18,7 @@ namespace Demo_GitKraken
 
 
             // Bob's edit for a pull request
+            Console.BackgroundColor = ConsoleColor.Green;
 
             // testing an edit for a pull request
 
