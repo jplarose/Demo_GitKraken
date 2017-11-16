@@ -24,6 +24,8 @@ namespace Demo_GitKraken
             // Making Christmas Colors
             Console.ForegroundColor = ConsoleColor.Red;
 
+            // Adding a new comment for pull request
+
             Console.WriteLine("Press any key to close");
             Console.ReadLine();
             return;
