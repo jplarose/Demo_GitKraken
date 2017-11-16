@@ -25,6 +25,7 @@ namespace Demo_GitKraken
             Console.ForegroundColor = ConsoleColor.Red;
 
             // Adding a new comment for pull request
+            // new branch change
 
             Console.WriteLine("Press any key to close");
             Console.ReadLine();
