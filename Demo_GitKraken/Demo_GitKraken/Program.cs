@@ -20,8 +20,9 @@ namespace Demo_GitKraken
             // Bob's edit for a pull request
             Console.BackgroundColor = ConsoleColor.Green;
 
-            // testing an edit for a pull request
-
+            // testing an edit for a pull ddd
+            // Making Christmas Colors
+            Console.ForegroundColor = ConsoleColor.Red;
 
             Console.WriteLine("Press any key to close");
             Console.ReadLine();
